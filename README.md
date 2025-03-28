@@ -8,7 +8,7 @@
 
 ## Встановлення
 1. Клонуйте репозиторій:
-git clone [https://github.com/user/hotel_booking.git cd hotel_booking](https://github.com/khchannel2005/hotel_booking)
+git clone [[https://github.com/user/hotel_booking.git cd hotel_booking](https://github.com/khchannel2005/hotel_booking)](https://github.com/khchannel2005/hotel_booking)
 
 
 2. Встановіть залежності:
